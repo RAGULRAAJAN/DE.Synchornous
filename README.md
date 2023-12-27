@@ -1,4 +1,5 @@
-# Exp-6-Synchornous-counters - up counter and down counter 
+# Implementation of 4 bit synchronous counters using verilog HDL
+
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
